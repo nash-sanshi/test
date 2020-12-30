@@ -1,0 +1,9 @@
+'''
+Created on 2020-8-26
+
+@author: zhangsanshi
+'''
+def power(x):
+    return x*x
+
+print('2的平方=',power(2))

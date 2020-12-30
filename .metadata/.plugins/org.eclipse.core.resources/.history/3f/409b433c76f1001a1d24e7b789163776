@@ -1,0 +1,20 @@
+'''
+Created on 2020-9-8
+
+@author: zhangsanshi
+'''
+def normalize(name):
+
+    return name.capitalize()
+
+
+
+
+
+# 测试:
+L1 = ['adam', 'LISA', 'barT']
+L2 = list(map(normalize, L1))
+if L2=(['Adam', 'Lisa', 'Bart']):
+    print("测试成功")
+else:
+    print("测试失败")
