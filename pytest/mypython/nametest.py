@@ -1,13 +1,3 @@
-'''
-Created on 2020-8-31
-
-@author: zhangsanshi
-'''
-
-' a test module '
-
-__author__ = 'Michael Liao'
-
 import sys
 
 def test():
