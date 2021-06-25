@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/nutz-1.r.62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/xxl-job-core-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/groovy-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/slf4j-log4j12-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/netty-all-4.1.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/xxl-job-executor-sample-nutz-2.2.0/WEB-INF/lib/slf4j-api-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
